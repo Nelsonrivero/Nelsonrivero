@@ -23,7 +23,7 @@
 <td width="50%">
 <h3 align="center">HOCUS</h3>
 <div align="center">
-<a href="https://youtu.be/ZuPaklSGw_s?si=ya7ImDaKR3cQpzKW" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Hocus"></a>
+<a href="https://youtu.be/ZuPaklSGw_s?si=ya7ImDaKR3cQpzKW" target="_blank"><img src="https://i.ibb.co/2cFgN15/hucus.jpg" width="400" alt="Hocus"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
