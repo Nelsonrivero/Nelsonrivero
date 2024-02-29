@@ -17,7 +17,7 @@
 - 🌐 CEO y Fundador de [CiberHero - Tu Mejor Aliado en el Mundo Digital](https://ciberhero.com.co/es)
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *Estrellas*
 <table>
 <tr>
 <td width="50%">
