@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://nelsonrivero.com">Nelson Rivero</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://scontent.feoh1-1.fna.fbcdn.net/v/t39.30808-6/361641787_3455434654723187_5171975490403071845_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFN3impWMSn50N576m3bBLZyyUzX6Ctl7PLJTNfoK2Xsx4XJZaxyUjqwN5xf0OR2YHXwPZn15fJZKagZY3H5bvg&_nc_ohc=oQ5qBn2xEnwAX_dQvj3&_nc_ht=scontent.feoh1-1.fna&oh=00_AfBMI93J406YlRzDzMymGaVqaI3UvIAU9DSIf08c1N5pQQ&oe=65E68BBC">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNJUl2E1S8rqjZMwSSsf4KQ?style=social)](https://youtube.com/@riveronelson?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/Nelsonrivero?style=social)](https://github.com/Nelsonrivero)
