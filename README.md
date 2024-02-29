@@ -11,9 +11,9 @@
 
 ## Sobre mi
 
-- 🌐 Desarrollador web
+- 💻 Desarrollador de Software
 - 🎥 Te enseño herramientas que te pueden ser utiles en [Youtube](https://youtube.com/@riveronelson?sub_confirmation=1)
-- 🧑‍🏫 CEO y Fundador de [WhatsCol - Comunicaciones Automatizadas](https://whatscol.com/)
+- 🤖 CEO y Fundador de [WhatsCol - Comunicaciones Automatizadas](https://whatscol.com/)
 - 🌐 CEO y Fundador de [CiberHero - Tu Mejor Aliado en el Mundo Digital](https://ciberhero.com.co/es)
 <br>
 
