@@ -21,7 +21,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">HOCUS</h3>
+<h3 align="center" >HOCUS</h3>
 <div align="center">
 <a href="https://youtu.be/ZuPaklSGw_s?si=ya7ImDaKR3cQpzKW" target="_blank"><img src="https://i.ibb.co/2cFgN15/hucus.jpg" width="400" alt="Hocus"></a>
 <p>
